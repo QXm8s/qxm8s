@@ -9,22 +9,22 @@
 Рассматриваю удаленный или гибридный (Кострома, Москва) режим работы на позиции
 стажера или junior специалиста. 
 
-**Инструменты Data Science:**
+Более подробно - [в резюме.](https://github.com/QXm8s/qxm8s/blob/main/Alexey_Lazarev_CV.pdf)
+
+#### Инструменты Data Science:
 Python, Pandas, Sklearn, CatBoost, LightGBM, Keras, SciPy, NumPy, Matplotlib, Seaborn, SQL
 
-**Инструменты разработки:** 
+#### Инструменты разработки:
 Jupyter, GitHub
 
-**Базы данных:**
+#### Базы данных:
 PostgreSQL 
 
-**Операционные системы:**
+#### Операционные системы:
 Windows, Linux
 
-**Иностранные языки:**
+#### Иностранные языки:
 Английский (B2 — средне-продвинутый)
-
-Более подробно - [в резюме](https://github.com/QXm8s/qxm8s/blob/main/Alexey_Lazarev_CV.pdf).
 
 <!--
 **QXm8s/qxm8s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
